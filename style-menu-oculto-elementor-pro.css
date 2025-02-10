@@ -1,0 +1,9 @@
+selector {
+  opacity: 0;
+  transform: translateY(-100%);
+  transition: all 0.3s ease-in-out;
+}
+.elementor-sticky--effects {
+  opacity: 1 !important;
+  transform: translateY(0) !important;
+}
