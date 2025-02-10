@@ -11,4 +11,4 @@
 	- Em Effects Offset, define um valor (ex: 100px) para que o menu só apareça após rolares essa distância.
 
 3 - Ocultar o Menu Inicialmente:
-	- No separador Avançado → Custom CSS, adiciona o conteúdo do ficheiro "style-menu-oculto.css"
+	- No separador Avançado → Custom CSS, adiciona o conteúdo do ficheiro "style-menu-oculto-elementor-pro.css"
