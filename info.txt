@@ -1,18 +1,14 @@
 🔹 Método 1: Usando Elementor Pro (Motion Effects)
 
-- Cria o Menu Fixo Oculto:
-- No Elementor, adiciona uma Secção no topo ou onde quiseres o menu aparecer.
-Coloca o Menu de Navegação dentro dessa secção.
-No separador Avançado, define um Z-Index alto (ex: 999) para garantir que fica sobre os outros elementos.
-Configurar Motion Effects para Mostrar ao Rolar:
+1 - Cria o Menu Fixo Oculto:
+	- No Elementor, adiciona uma Secção no topo ou onde quiseres o menu aparecer.
+	- Coloca o Menu de Navegação dentro dessa secção.
+	- No separador Avançado, define um Z-Index alto (ex: 999) para garantir que fica sobre os outros elementos.
 
-Vai ao separador Avançado → Motion Effects.
-Em Sticky, escolhe "Topo".
-Em Effects Offset, define um valor (ex: 100px) para que o menu só apareça após rolares essa distância.
-Ocultar o Menu Inicialmente:
+2 - Configurar Motion Effects para Mostrar ao Rolar:
+	- Vai ao separador Avançado → Motion Effects.
+	- Em Sticky, escolhe "Topo".
+	- Em Effects Offset, define um valor (ex: 100px) para que o menu só apareça após rolares essa distância.
 
-No separador Avançado → Custom CSS, adiciona:
-css
-Copiar
-Editar
-
+3 - Ocultar o Menu Inicialmente:
+	- No separador Avançado → Custom CSS, adiciona o conteúdo do ficheiro "style-menu-oculto.css"
