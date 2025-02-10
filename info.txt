@@ -1,4 +1,4 @@
-🔹 Método 1: Usando Elementor Pro (Motion Effects)
+🔹 Método 1: Usar Elementor Pro (Motion Effects)
 
 1 - Cria o Menu Fixo Oculto:
 	- No Elementor, adiciona uma Secção no topo ou onde quiseres o menu aparecer.
