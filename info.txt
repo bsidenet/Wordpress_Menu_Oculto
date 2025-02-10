@@ -12,3 +12,11 @@
 
 3 - Ocultar o Menu Inicialmente:
 	- No separador Avançado → Custom CSS, adiciona o conteúdo do ficheiro "style-menu-oculto-elementor-pro.css"
+
+----------------------------------------------------
+🔹 Método 2: Usar CSS + JavaScript (Para Elementor Free)
+
+Se não tiveres Elementor Pro, podes fazer isso com código manual:
+	1 - No WordPress, adiciona o código CSS do ficheiro "style-menu-oculto-elementor-free.css" em “Aparência” > “Personalizar” > “CSS adicional”
+	2 - No plugin de código JavaScript personalizado do Elementor, adiciona o código do ficheiro "jsMenuOculto.js"
+	3 - No Elementor adiciona uma Secção no topo, define o ID como "menuOculto" e insere um Menu de Navegação dentro da Secção.
