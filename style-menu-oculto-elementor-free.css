@@ -1,0 +1,16 @@
+#menuOculto {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.8); /* Cor de fundo */
+    padding: 10px 0;
+    opacity: 0;
+    transform: translateY(-100%);
+    transition: all 0.3s ease-in-out;
+    z-index: 999;
+}
+.mostrarMenu {
+    opacity: 1 !important;
+    transform: translateY(0) !important;
+}
